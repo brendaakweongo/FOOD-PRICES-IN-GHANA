@@ -20,7 +20,7 @@ This analysis centers on the prices of food in Ghana over the years, 2006 to 202
 ### Data Cleaning
 <kbd><img width="500" alt="Screenshot 2022-05-18 at 2 54 25 PM" src="https://github.com/brendaakweongo/FOOD-PRICES-IN-GHANA/blob/main/images/displayData.png"></kbd>
 
-This displays the raw data that has been uploaded unto the MySQL database.
+Data results of raw data.
 
 <kbd><img width="1000" alt="Screenshot 2022-05-18 at 2 54 25 PM" src="https://github.com/brendaakweongo/FOOD-PRICES-IN-GHANA/blob/main/images/displayDataAll.png"></kbd>
 
