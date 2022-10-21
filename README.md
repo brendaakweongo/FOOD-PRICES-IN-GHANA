@@ -24,6 +24,8 @@ This displays the raw data that has been uploaded unto the MySQL database.
 
 <kbd><img width="1000" alt="Screenshot 2022-05-18 at 2 54 25 PM" src="https://github.com/brendaakweongo/FOOD-PRICES-IN-GHANA/blob/main/images/displayDataAll.png"></kbd>
 
+<kbd><img width="500" alt="Screenshot 2022-05-18 at 2 54 25 PM" src="https://github.com/brendaakweongo/FOOD-PRICES-IN-GHANA/blob/main/images/deleteRow.png"></kbd>
+
 ### Dashboard
 
 <kbd><img width="1425" alt="Screenshot 2022-05-18 at 2 54 25 PM" src="https://github.com/brendaakweongo/Hotel-Revenue/blob/main/hotelAnalysisbyYear.png"></kbd>
