@@ -22,6 +22,8 @@ This analysis centers on the prices of food in Ghana over the years, 2006 to 202
 
 This displays the raw data that has been uploaded unto the MySQL database.
 
+<kbd><img width="500" alt="Screenshot 2022-05-18 at 2 54 25 PM" src="https://github.com/brendaakweongo/FOOD-PRICES-IN-GHANA/blob/main/images/displayDataAll.png"></kbd>
+
 ### Dashboard
 
 <kbd><img width="1425" alt="Screenshot 2022-05-18 at 2 54 25 PM" src="https://github.com/brendaakweongo/Hotel-Revenue/blob/main/hotelAnalysisbyYear.png"></kbd>
