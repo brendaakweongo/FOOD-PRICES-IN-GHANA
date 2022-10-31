@@ -40,7 +40,7 @@ Data results after changing the field names.
 
 Data results after running query.
 
-<kbd><img width="1000" alt="Screenshot 2022-05-18 at 2 54 25 PM" src="https://github.com/brendaakweongo/FOOD-PRICES-IN-GHANA/blob/main/images/changeResults.png"></kbd>
+<kbd><img width="1000" alt="Screenshot 2022-05-18 at 2 54 25 PM" src="https://github.com/brendaakweongo/FOOD-PRICES-IN-GHANA/blob/main/images/expensiveResults.png"></kbd>
 
 
 ### Dashboard
