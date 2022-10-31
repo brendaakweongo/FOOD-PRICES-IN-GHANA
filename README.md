@@ -36,6 +36,8 @@ Data results after changing the field names.
 
 <kbd><img width="1000" alt="Screenshot 2022-05-18 at 2 54 25 PM" src="https://github.com/brendaakweongo/FOOD-PRICES-IN-GHANA/blob/main/images/changeResults.png"></kbd>
 
+<kbd><img width="500" alt="Screenshot 2022-05-18 at 2 54 25 PM" src="https://github.com/brendaakweongo/FOOD-PRICES-IN-GHANA/blob/main/images/mostExpensive.png"></kbd>
+
 ### Dashboard
 
 <kbd><img width="1425" alt="Screenshot 2022-05-18 at 2 54 25 PM" src="https://github.com/brendaakweongo/Hotel-Revenue/blob/main/hotelAnalysisbyYear.png"></kbd>
